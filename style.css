@@ -1,0 +1,38 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv img {
+    width: 100%;
+}
+.travel_mainDiv {
+    border: 1px solid rgb(20, 223, 155);
+}
+.travel_mainDiv h5,.travel_mainDiv p {
+    margin: 20px;
+}
+.travel_mainDiv2 img {
+    width: 100%;
+}
+.travel_mainDiv2 {
+    border: 1px solid rgb(24, 21, 219);
+}
+.travel_mainDiv2 h5,.travel_mainDiv2 p {
+    margin: 20px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i
+{
+    float: right;
+
+}
+.movie_text span
+{
+    color: orange;
+}
